@@ -221,6 +221,11 @@
     <Content Include="Content\img\blog-img\bg4.jpg" />
     <Content Include="Content\img\core-img\favicon.ico" />
     <Content Include="Content\img\core-img\logo.png" />
+    <Content Include="Content\img\dragonfavicon.png" />
+    <Content Include="Content\img\firedragonzelda.jpg" />
+    <Content Include="Content\img\greendragon.png" />
+    <Content Include="Content\img\icedragongothic2.png" />
+    <Content Include="Content\img\skyrimdragon.jpg" />
     <Content Include="Content\js\active.js" />
     <Content Include="Content\js\bootstrap.min.js" />
     <Content Include="Content\js\jquery\jquery-2.2.4.min.js" />
